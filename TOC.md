@@ -13,3 +13,4 @@
   * [02-3. 설명하는 사람이 되어 가는 순간](pages/02-3-becoming.md)
   * [02-4. 새해 첫날 새벽 세 시](pages/02-4-new-year.md)
   * [02-5. 마켓팅 어드민](pages/02-5-admin.md)
+  * [02-6. 이중감의 시작](pages/02-6-duality.md)
