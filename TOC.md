@@ -11,3 +11,4 @@
   * [02-1. 사람이 먼저 몰려온 자리](pages/02-1-crowd.md)
   * [02-2. 채팅방의 국경](pages/02-2-border.md)
   * [02-3. 설명하는 사람이 되어 가는 순간](pages/02-3-becoming.md)
+  * [02-4. 새해 첫날 새벽 세 시](pages/02-4-new-year.md)
