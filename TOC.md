@@ -26,3 +26,8 @@
   * [04-3. 체크리스트](pages/04-3-checklist.md)
   * [04-4. 코드를 쥔 사람과 명분을 쥔 사람](pages/04-4-code-and-cause.md)
   * [04-5. 끝내지 않는다](pages/04-5-not-ending.md)
+* [05. 이름을 정하다](pages/05-naming.md)
+  * [05-1. 코드보다 먼저 필요한 것](pages/05-1-before-code.md)
+  * [05-2. MPR과 MPC 사이](pages/05-2-mpr-mpc.md)
+  * [05-3. 이름보다 먼저 움직이는 것들](pages/05-3-before-name.md)
+  * [05-4. MemoChain](pages/05-4-memochain.md)
